@@ -1,5 +1,5 @@
 require 'logger'
-require 'myxi/exchange'
+require 'myxi/session'
 require 'myxi/railtie' if defined?(Rails)
 
 module Myxi
